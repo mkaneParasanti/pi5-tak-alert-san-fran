@@ -1,0 +1,5 @@
+asyncio
+configparse
+pytak
+gpiod
+cryptography
